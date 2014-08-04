@@ -13,5 +13,6 @@ public interface ActionResult {
      *
      * @param beatContext 需要渲染的上下文
      */
+	 /*12456*/
     void render(BeatContext beatContext);
 }
